@@ -15,6 +15,7 @@ To Install
 3. run: `virtualenv <projectname>`
 4. cd into `<projectname>`
 5. run: `source bin/activate`
+6. git clone https://github.com/danthemanvsqz/mep_django.git
 6. run: `pip install -r requirements.txt`
 7. run: `python manage.py syncdb`
 8. run: `python manage.py runserver`
